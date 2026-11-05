@@ -1,0 +1,9 @@
+# Fonte original (livro físico escaneado) — não publicar
+scan.pdf
+_scan_pages/
+
+# temporários
+_*.py
+_*.mjs
+*.log
+.DS_Store

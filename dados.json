@@ -1,0 +1,760 @@
+{
+  "titulo": "Novena de Natal 2026",
+  "subtitulo": "A paz existe, deseja habitar-nos",
+  "fonte": "Edições CNBB — Conferência Nacional dos Bispos do Brasil",
+  "autoria": "Matheus Cedric Godinho",
+  "siglas": [
+    { "sigla": "D.", "significado": "Dirigente" },
+    { "sigla": "L1.", "significado": "Leitor(a) 1" },
+    { "sigla": "L2.", "significado": "Leitor(a) 2" },
+    { "sigla": "L3.", "significado": "Leitor(a) 3" },
+    { "sigla": "R.", "significado": "Resposta" },
+    { "sigla": "T.", "significado": "Todos" }
+  ],
+  "oracaoInicial": {
+    "titulo": "Oração Inicial",
+    "nota": "para todos os dias",
+    "falas": [
+      { "papel": "D", "texto": "Amados irmãos e irmãs, este Tempo do Advento desponta em nossos corações como a aurora que antecede o novo dia da paz: desta paz esperada por todos os povos, desejada pelas nações, que se anuncia \u201cda boca das crianças e dos lactentes\u201d (Sl 8,2). Inclinamos nossos ouvidos à manjedoura para escutar os murmúrios do Menino, o Príncipe da Paz. É nele que a humanidade ferida encontra reconciliação e se torna testemunha do dom da pacificação que o mundo não pode dar. Por isso, para bem nos prepararmos para o santo Natal, rezemos:" },
+      { "papel": "T", "texto": "**Em nome do Pai, e do Filho, e do Espírito Santo. Amém!**" },
+      { "papel": "D", "texto": "Irmãos e irmãs, reúnam a vizinhança.\nJá surge em nossa noite uma nova esperança." },
+      { "papel": "T", "texto": "**Abram os olhos e o coração,**\n**que esse Menino traz reconciliação.**" },
+      { "papel": "D", "texto": "Não vem com armas, nem vem guerrear,\né a força da paz que Ele faz triunfar." },
+      { "papel": "T", "texto": "**Vem sem riqueza, com o pobre habitar.**\n**Mas traz um tesouro que ninguém pode dar.**" },
+      { "papel": "D", "texto": "Vejam o mistério que tocou este solo.\nO humilde José carregou Deus no colo." },
+      { "papel": "T", "texto": "**Ouçam na noite estes cochichos.**\n**É a Virgem ninando o Divino entre os bichos.**" },
+      { "papel": "D", "texto": "Venham, amigas, se acheguem vizinhos.\nCesse a discórdia em nossos caminhos." },
+      { "papel": "T", "texto": "**Já vem Jesus, Príncipe da Paz,**\n**e a vida nova que Ele nos traz!**" }
+    ]
+  },
+  "oracaoFinal": {
+    "titulo": "Oração Final",
+    "nota": "para todos os dias",
+    "falas": [
+      { "papel": "D", "texto": "Querida comunidade, ao final de mais este dia de Novena, supliquemos ao Bom Deus que a paz experimentada através desta nossa oração se derrame sobre todos os irmãos e irmãs, em especial sobre aqueles em maior sofrimento e aflição:" },
+      { "papel": "T", "texto": "**O Senhor nos abençoe e nos guarde.**\n**O Senhor faça resplandecer sobre nós o seu rosto e tenha misericórdia de nós.**\n**O Senhor levante sobre nós o seu rosto e nos dê a paz.**" },
+      { "papel": "obs", "texto": "Se for oportuno, realizar a aspersão da casa e das pessoas com água benta, como memória do Batismo." },
+      { "papel": "subtitulo", "texto": "Orações" },
+      { "papel": "lista", "texto": "Pai Nosso…\nAve Maria…\nGlória ao Pai…" },
+      { "papel": "destaque", "texto": "**ABRAÇO DA PAZ** (canto à escolha)" },
+      { "papel": "destaque", "texto": "**CANTO FINAL** (à escolha)" }
+    ]
+  },
+  "encontros": [
+    {
+      "numero": 1,
+      "titulo": "A PAZ QUE NASCE NO CORAÇÃO",
+      "secoes": [
+        { "tipo": "oracaoInicial", "titulo": "1. Oração Inicial" },
+        {
+          "tipo": "falas",
+          "titulo": "2. Acolhida do Tema",
+          "falas": [
+            { "papel": "D", "texto": "A Novena de Natal deste ano nos convida a iniciar um caminho de paz. O Senhor vem ao nosso encontro para tocar o mais íntimo do coração humano, onde tantas vezes habitam inquietações, medos e divisões. É ali que Ele deseja fazer morada, semeando uma paz nova, que não depende das circunstâncias, mas nasce da sua presença." },
+            { "papel": "L1", "texto": "Deus nunca está distante. Desde o princípio, fomos criados para viver reconciliados com Ele, conosco e com os irmãos e irmãs. No entanto, muitas vezes nosso coração se torna um lugar de conflito, dureza e violência. Carregamos fardos que nos afastam da serenidade que o Senhor deseja nos dar. O Natal nos recorda de que Ele vem ao nosso encontro para restaurar em nós a comunhão perdida." },
+            { "papel": "T", "texto": "**Senhor, visitai nosso coração e fazei nascer em nós a vossa paz!**" },
+            { "papel": "L2", "texto": "Esse mistério se revela no Menino de Belém: um Deus que não invade, mas se oferece; que não impõe, mas convida; que não domina, mas liberta. A sua paz não vem como força que constrange, mas como ternura que transforma." },
+            { "papel": "T", "texto": "**Senhor, fazei do nosso coração a morada da paz!**" }
+          ]
+        },
+        {
+          "tipo": "iluminacao",
+          "titulo": "3. Iluminação Bíblica",
+          "introducao": { "papel": "D", "texto": "Ouçamos agora a Palavra de Deus, que nos convida a entregar nossas angústias e ansiedades ao Pai por meio de súplicas e orações." },
+          "canto": "Canto de acolhida da Palavra, à escolha.",
+          "proclamacao": "Proclamação da Palavra – Filipenses 4,6-7",
+          "nota": "Após a proclamação, faz-se um tempo de silêncio, para que cada um leia e releia o texto em sua própria Bíblia, pelo menos três vezes, sem pressa."
+        },
+        {
+          "tipo": "perguntas",
+          "titulo": "4. Partilha",
+          "perguntas": [
+            "O que tem inquietado mais o nosso coração e nos afastado da paz? Como temos lidado com isso?",
+            "O que significa confiar a Deus nossas preocupações? Acreditamos, de fato, que a sua paz pode guardar nossos pensamentos e sentimentos?"
+          ]
+        },
+        {
+          "tipo": "falas",
+          "titulo": "5. Fato da Vida",
+          "falas": [
+            { "papel": "L1", "texto": "Viciado em apostas virtuais, o marido de Teresa acumulou dívidas que agora pareciam maiores do que qualquer sorte. Preocupada com a situação financeira da família, ela passava as noites fazendo cálculos, imaginando soluções, antecipando cenários. Durante o dia, sua mente voltava sempre aos mesmos problemas, como se não conseguisse sair deles." },
+            { "papel": "L2", "texto": "Numa tarde, depois de um dia particularmente difícil, ela se irritou com o filho caçula por um motivo bobo. A criança insistia em brincar, enquanto Teresa tentava organizar algumas contas. Já exausta, a mãe gritou: \u201cAgora não, meu filho! Estou com a cabeça cheia! Por que não me dá um minuto de paz?\u201d." },
+            { "papel": "L3", "texto": "O menino olhou para ela um pouco assustado. Depois, com a simplicidade típica das crianças, respondeu: \u201cMamãe, sabia que, quando a minha cabeça fica muito cheia, eu faço uma oração?\u201d." },
+            { "papel": "L1", "texto": "Teresa olhou para o filho surpresa. E ele continuou: \u201cEu falo assim: \u2018Papai do Céu, me ajude a pensar em coisas boas\u2019\u201d. Aquela oração era tão simples e, ao mesmo tempo, parecia tocar exatamente o ponto que Teresa mais precisava. Ela respirou fundo, olhou para o filho e, sem dizer mais nada, o abraçou." },
+            { "papel": "D", "texto": "Naquela noite, ao se deitar, quando as preocupações começaram novamente a ocupar seus pensamentos, ela se lembrou das palavras do menino e sussurrou: \u201cPapai do Céu, me ajude a pensar em coisas boas\u201d. Os problemas continuavam ali, sem respostas imediatas. Mas, aos poucos, seu coração foi encontrando descanso. Pela primeira vez em muitos dias, Teresa conseguiu silenciar o turbilhão de pensamentos e compreendeu que, mesmo em meio às incertezas, ainda era possível encontrar a paz." },
+            { "papel": "pergunta", "texto": "O que essa história nos ensina sobre a forma como lidamos com nossas preocupações e pensamentos no dia a dia?" }
+          ]
+        },
+        {
+          "tipo": "rezar",
+          "titulo": "6. Rezar com a Palavra",
+          "introducao": { "papel": "D", "texto": "A Palavra de Deus nos convida a confiar ao Pai, por meio da oração, todas as nossas angústias. Neste tempo de espera do Advento, peçamos esta graça:" },
+          "resposta": "Senhor, pacificai nossos corações!",
+          "intencoes": [
+            "Para que as ansiedades do dia a dia não nos dominem.",
+            "Para que, mesmo em meio às dificuldades, cultivemos pensamentos de confiança.",
+            "Para que aprendamos, na simplicidade da oração, a descansar o coração em Deus.",
+            "Para que reconheçamos o dom da paz em nós, mesmo em meio às incertezas."
+          ],
+          "nota": "Outras intenções podem ser acrescentadas."
+        },
+        {
+          "tipo": "falas",
+          "titulo": "7. Compromisso de Irmãos",
+          "falas": [
+            { "papel": "D", "texto": "Vivemos em um mundo frenético, com grandes dilemas humanos e sociais. Tudo isso, frequentemente, é causa de muitas angústias, crises de ansiedade e de um sentimento intenso de insegurança e temor. Nesta semana (ou nos próximos dias), somos convidados a **confiar nossos pensamentos ao Senhor e suplicar também por aqueles que se encontram inquietos e apreensivos pelos problemas da vida**. Que este compromisso nos ajude a vislumbrar, no horizonte de nossas preocupações, a estrela de Belém que anuncia o Nascimento do Príncipe da Paz." }
+          ]
+        },
+        { "tipo": "oracaoFinal", "titulo": "8. Oração Final" }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "A PAZ QUE RECONCILIA A NOSSA HISTÓRIA",
+      "secoes": [
+        { "tipo": "oracaoInicial", "titulo": "1. Oração Inicial" },
+        {
+          "tipo": "falas",
+          "titulo": "2. Acolhida do Tema",
+          "falas": [
+            { "papel": "D", "texto": "Irmãos e irmãs, seguimos nosso caminho de preparação para o Natal, tempo em que o Senhor vem para reconciliar aquilo que, em nossa vida, se encontra ferido, dividido ou sem sentido. Ele não ignora a nossa história, mas entra nela com amor, para restaurá-la desde dentro." },
+            { "papel": "L1", "texto": "Quantas vezes carregamos no coração marcas do passado: palavras que nos feriram, escolhas que nos pesam, relações rompidas, culpas que insistem em permanecer. Há histórias que tentamos esquecer e outras que não conseguimos superar. Mas a Palavra de Deus nos revela que nenhuma história está perdida quando é tocada por sua graça." },
+            { "papel": "T", "texto": "**Senhor, vinde reconciliar a nossa história!**" },
+            { "papel": "L2", "texto": "No Menino de Belém, Deus não inaugura uma história nova, à parte da nossa, mas assume a nossa própria história, com tudo o que ela tem de luz e de sombra. Ele não vem para apagar o passado, mas para dar a ele um novo sentido, abrindo caminhos onde parecia não haver mais saída." },
+            { "papel": "L3", "texto": "O Natal nos convida a olhar para nossa própria vida com esperança: aquilo que parecia definitivo pode ser transformado; aquilo que estava quebrado pode ser restaurado." },
+            { "papel": "T", "texto": "**Senhor, fazei de nós instrumentos da vossa paz!**" }
+          ]
+        },
+        {
+          "tipo": "iluminacao",
+          "titulo": "3. Iluminação Bíblica",
+          "introducao": { "papel": "D", "texto": "Deus não tem inimizade conosco, apesar de nossas frequentes infidelidades. Ele não nos vira o rosto, nem se recusa a nos encontrar. Ao invés disso, por meio de sua Palavra, Ele nos chama para perto, para uma relação ainda mais íntima e amorosa. Ouçamos." },
+          "canto": "Canto de acolhida da Palavra, à escolha.",
+          "proclamacao": "Proclamação da Palavra – Romanos 5,1-2",
+          "nota": "Após a proclamação, faz-se um tempo de silêncio, para que cada um leia e releia o texto em sua própria Bíblia, pelo menos três vezes, sem pressa."
+        },
+        {
+          "tipo": "perguntas",
+          "titulo": "4. Partilha",
+          "perguntas": [
+            "O que significa, para nós, estar em paz com Deus por meio de Jesus? Como isso ilumina a nossa vida?",
+            "Como essa paz pode nos ajudar a lidar melhor com situações difíceis e a buscar reconciliação em nossas relações?"
+          ]
+        },
+        {
+          "tipo": "falas",
+          "titulo": "5. Fato da Vida",
+          "falas": [
+            { "papel": "L3", "texto": "Marcos carregava um peso que ninguém via. Anos atrás, havia mentido para sua esposa sobre alguns gastos que fazia. O casamento seguiu, a vida continuou, mas, dentro dele, algo permanecia quebrado. Mesmo tendo se confessado, não conseguia se perdoar." },
+            { "papel": "L1", "texto": "Com a chegada das festas de final de ano, aquele incômodo parecia ainda maior. Enquanto todos falavam de festa e renovação, ele se sentia preso a um erro que não conseguia deixar para trás. Dias antes do Natal, decidiu entrar na igreja, mais para fugir do barulho do que por outra razão." },
+            { "papel": "L2", "texto": "Sentou-se no último banco, em silêncio. A igreja estava quase vazia. Foi então que, ao levantar os olhos, percebeu um cartaz simples fixado na parede lateral. Nele estava escrito: \u201cDeus não se cansa de perdoar. Somos nós que nos cansamos de recomeçar\u201d." },
+            { "papel": "D", "texto": "Marcos ficou olhando aquelas palavras por um longo tempo. Sentiu como se fossem dirigidas diretamente a ele. Percebeu ali que sua culpa o impedia de recomeçar. Estava cansado de viver no ontem. Deus já estava à sua frente, chamando-o para um novo amanhã de maior maturidade e paz." },
+            { "papel": "pergunta", "texto": "O que é mais desafiador para você: perdoar o outro ou se perdoar?" },
+            { "papel": "pergunta", "texto": "O que pode nos ajudar a deixar o passado e acolher um novo começo em nossa vida?" }
+          ]
+        },
+        {
+          "tipo": "rezar",
+          "titulo": "6. Rezar com a Palavra",
+          "introducao": { "papel": "D", "texto": "A fé na Encarnação do Verbo nos reconcilia com Deus. Somos destinatários da sua misericórdia infinita, como filhos que retornam à casa paterna. Rezemos:" },
+          "resposta": "Senhor, libertai-nos da culpa e dai-nos vossa paz!",
+          "intencoes": [
+            "Para que saibamos acolher o vosso perdão com confiança e não permaneçamos presos à culpa.",
+            "Para que reconheçamos em vossa misericórdia um caminho sempre aberto de recomeço.",
+            "Para que aprendamos a perdoar a nós mesmos e aos outros, como vós nos perdoais."
+          ],
+          "nota": "Outras intenções podem ser acrescentadas."
+        },
+        {
+          "tipo": "falas",
+          "titulo": "7. Compromisso de Irmãos",
+          "falas": [
+            { "papel": "D", "texto": "O Natal é a festa da vida nascente, da novidade que invade a história. Nele, somos convidados a acolher o testemunho do Apóstolo Paulo: \u201cesquecendo o que fica para trás, lanço-me para o que está à frente. Lanço-me em direção à meta, para conquistar o prêmio que, do alto, Deus me chama a receber, em Cristo Jesus\u201d (Fl 3,13b-14). Nesta semana (ou nos próximos dias), portanto, vamos nos comprometer a **rezar pelos que deixaram marcas negativas em nossa jornada**, confiando as dores do passado ao Senhor do tempo e da história." }
+          ]
+        },
+        { "tipo": "oracaoFinal", "titulo": "8. Oração Final" }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "A PAZ EM NOSSAS RELAÇÕES",
+      "secoes": [
+        { "tipo": "oracaoInicial", "titulo": "1. Oração Inicial" },
+        {
+          "tipo": "falas",
+          "titulo": "2. Acolhida do Tema",
+          "falas": [
+            { "papel": "D", "texto": "Irmãos e irmãs, a paz anunciada pelo Nascimento do Menino de Belém não é simplesmente uma tranquilidade egoísta ou uma ideia abstrata, mas se constrói no modo como nos tratamos uns aos outros, nos escutamos mutuamente e caminhamos juntos." },
+            { "papel": "L1", "texto": "Em nosso cotidiano, muitas vezes nos deixamos levar pela impaciência, pelas palavras duras, pelos julgamentos apressados. Pequenas atitudes vão desgastando nossas relações e, sem perceber, vamos nos afastando uns dos outros." },
+            { "papel": "L2", "texto": "A Palavra nos lembra de que a paz de Cristo deve ser o critério de nossas escolhas. Não se trata apenas de evitar conflitos, mas de cultivar um coração capaz de apoiar, compreender, cuidar e perdoar. A paz que vem de Deus nos move a construir relações mais humanas e fraternas." },
+            { "papel": "T", "texto": "**Senhor, ensinai-nos a viver na vossa paz!**" },
+            { "papel": "L3", "texto": "O testemunho da Sagrada Família nos mostra que estar em paz não é viver sem problemas, mas abrir-se à escuta e à acolhida do outro, discernindo sempre com paciência as atitudes que melhor favorecem a vida dos que convivem conosco." },
+            { "papel": "T", "texto": "**Senhor, fazei de nós instrumentos da vossa paz!**" }
+          ]
+        },
+        {
+          "tipo": "iluminacao",
+          "titulo": "3. Iluminação Bíblica",
+          "introducao": { "papel": "D", "texto": "Revestir-se do amor é permitir que a paz reine em nossos corações. Ouçamos com atenção a Palavra de Deus." },
+          "canto": "Canto de acolhida da Palavra, à escolha.",
+          "proclamacao": "Proclamação da Palavra – Colossenses 3,12-15",
+          "nota": "Após a proclamação, faz-se um tempo de silêncio, para que cada um leia e releia o texto em sua própria Bíblia, pelo menos três vezes, sem pressa."
+        },
+        {
+          "tipo": "perguntas",
+          "titulo": "4. Partilha",
+          "perguntas": [
+            "Como tem estado a qualidade das nossas relações?",
+            "Em quais situações temos mais dificuldade de agir com paciência, bondade e perdão?"
+          ]
+        },
+        {
+          "tipo": "falas",
+          "titulo": "5. Fato da Vida",
+          "falas": [
+            { "papel": "L3", "texto": "Renato e Paulo trabalhavam juntos no mesmo setor havia alguns meses. Paulo era um bom colega, mas muito distraído. Esquecia prazos, confundia tarefas e, com frequência, acabava comprometendo o andamento do trabalho. No início, Renato ajudava de boa vontade, mas, aos poucos, começou a se irritar." },
+            { "papel": "L1", "texto": "Com o passar dos dias, a impaciência foi crescendo. Renato corrigia os erros com mais dureza, respondia de forma seca e, por dentro, já se sentia cansado daquela situação, que parecia não mudar." },
+            { "papel": "L2", "texto": "Certa manhã, antes de começar o expediente, Renato percebeu o quanto aquele clima estava lhe fazendo mal e decidiu recuar um pouco. Não podia mudar o jeito do colega de um dia para o outro, mas podia escolher agir com mais paciência." },
+            { "papel": "D", "texto": "Ao longo do dia, Paulo continuou se atrapalhando em algumas tarefas. Mas, dessa vez, Renato respirou fundo, explicou com calma e seguiu o trabalho sem alimentar a irritação." },
+            { "papel": "L3", "texto": "No fim do expediente, enquanto organizavam as coisas, Paulo se aproximou e disse, com simplicidade: \u201cRenato, obrigado por hoje… e por sempre me ajudar. Eu sei que me atrapalho às vezes. Tenho passado por um momento difícil em casa, mas, trabalhando com você, me sinto mais tranquilo. Seu jeito me dá paz\u201d." },
+            { "papel": "D", "texto": "Daquele dia em diante, algo mudou no olhar de Renato. Os erros de Paulo já não ocupavam todo o espaço, e seu coração já não se abalava da mesma forma. A situação não se resolveu de imediato, mas ele percebeu que a paz não dependia de tudo dar certo, e sim do modo como escolhia reagir. Com o tempo, o trabalho deixou de ser um peso e passou a ser um lugar onde também era possível viver com mais leveza e paz." },
+            { "papel": "pergunta", "texto": "Em quais situações podemos escolher agir com mais paciência para construir a paz em nossas relações?" }
+          ]
+        },
+        {
+          "tipo": "rezar",
+          "titulo": "6. Rezar com a Palavra",
+          "introducao": { "papel": "D", "texto": "A Palavra de Deus nos convida a revestir-nos de compaixão, bondade, humildade, mansidão e paciência, deixando que a paz de Cristo conduza nossas relações. Neste tempo de preparação para o Natal, peçamos esta graça:" },
+          "resposta": "Reine em nós a vossa paz, Senhor!",
+          "intencoes": [
+            "Para que aprendamos a agir com paciência e mansidão nas situações de conflito.",
+            "Para que saibamos acolher o outro com suas limitações, sem julgamentos ou dureza.",
+            "Para que a paz de Cristo seja o critério de nossas palavras e atitudes.",
+            "Para que nossas relações sejam marcadas pela escuta, pelo respeito e pelo perdão."
+          ],
+          "nota": "Outras intenções podem ser acrescentadas."
+        },
+        {
+          "tipo": "falas",
+          "titulo": "7. Compromisso de Irmãos",
+          "falas": [
+            { "papel": "D", "texto": "Deus não espera que vivamos relações perfeitas, mas íntegras. No espírito do Natal, que nos conclama a sermos homens e mulheres de boa vontade, dediquemos nossa semana (ou os próximos dias) a **olhar com mais ternura para as pessoas que convivem conosco**, de modo especial aquelas que mais nos causam sentimentos de irritação e desconforto. Busquemos **observar suas qualidades e virtudes mais do que seus erros e defeitos**." }
+          ]
+        },
+        { "tipo": "oracaoFinal", "titulo": "8. Oração Final" }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "A PAZ EM NOSSOS LARES",
+      "secoes": [
+        { "tipo": "oracaoInicial", "titulo": "1. Oração Inicial" },
+        {
+          "tipo": "falas",
+          "titulo": "2. Acolhida do Tema",
+          "falas": [
+            { "papel": "D", "texto": "Queridos irmãos e irmãs, no Natal, Deus veio habitar um lar humano. Ele também quis ter família, casa, uma vizinhança com quem compartilhar. No Advento, preparamos nossas casas para que Ele venha a nós e faça do nosso lugar o seu próprio lar." },
+            { "papel": "T", "texto": "**Senhor, vinde habitar em nossos lares!**" },
+            { "papel": "L1", "texto": "No Evangelho, Jesus nos ensina a desejar a paz ao entrar em uma casa: \u201cA paz esteja nesta casa\u201d. Não se trata de uma saudação vazia, mas de um anúncio e de um dom. A paz de Deus é oferecida, mas precisa ser acolhida para permanecer." },
+            { "papel": "L2", "texto": "Sabemos, porém, que nem sempre é fácil viver a paz dentro de casa. O pecado também fere nossas relações mais íntimas. Em meio às pequenas e graves problemas que afetam nossas famílias, nossos lares podem encontrar feridas dolorosas a serem superadas. Por isso, somos chamados a aprender, diariamente, o caminho da reconciliação e do cuidado mútuo." },
+            { "papel": "T", "texto": "**Senhor, livrai os nossos lares da ação do mal!**" },
+            { "papel": "L3", "texto": "O Natal nos convida a olhar para nossa casa com mais atenção e esperança, fazendo dela uma manjedoura, onde o Príncipe da Paz possa ser acolhido." }
+          ]
+        },
+        {
+          "tipo": "iluminacao",
+          "titulo": "3. Iluminação Bíblica",
+          "introducao": { "papel": "D", "texto": "Quem carrega no coração a Palavra de Deus experimenta e anuncia a paz. Ouçamos." },
+          "canto": "Canto de acolhida da Palavra, à escolha.",
+          "proclamacao": "Proclamação da Palavra – Lucas 10,5-6",
+          "nota": "Após a proclamação, faz-se um tempo de silêncio, para que cada um leia e releia o texto em sua própria Bíblia, pelo menos três vezes, sem pressa."
+        },
+        {
+          "tipo": "perguntas",
+          "titulo": "4. Partilha",
+          "perguntas": [
+            "O que significa, para nós, acolher a paz de Deus dentro de nossa casa?",
+            "Nossos comportamentos têm comunicado paz nos lugares que frequentamos?"
+          ]
+        },
+        {
+          "tipo": "falas",
+          "titulo": "5. Fato da Vida",
+          "falas": [
+            { "papel": "L3", "texto": "Na casa da dona Lúcia e do seu João, a fé sempre foi parte da vida. A Missa aos domingos, o Terço em família e a Novena de Natal eram momentos aguardados com alegria. Mas, há algum tempo, algo havia mudado: o filho mais velho decidiu se afastar da Igreja e passou a se considerar ateu." },
+            { "papel": "L1", "texto": "No início, a mudança gerou muitos conflitos. Os pais tentavam convencê-lo a voltar, insistiam, questionavam, discutiam. Mas, quanto mais falavam, mais o filho se fechava. Aos poucos, perceberam que as discussões não os aproximavam, apenas criavam mais distância entre eles." },
+            { "papel": "L2", "texto": "Certo dia, porém, dona Lúcia ouviu uma vizinha comentar: \u201cSeu filho é um rapaz tão bom, sempre educado, atencioso, ajuda todo mundo. É difícil ver alguém assim hoje\u201d." },
+            { "papel": "L1", "texto": "Uma paz serena então surgiu no coração da dona Lúcia. Embora seu filho tivesse se afastado da Igreja, não havia abandonado aquilo que aprendera. Os valores permaneciam." },
+            { "papel": "D", "texto": "O rapaz, percebendo que os pais estavam menos reativos ao seu jeito, também foi se tornando mais aberto. Nesse ano, inclusive, ele ajudou os pais a organizarem a Novena em casa e até permaneceu durante um dos momentos de oração. Seus lábios não se moviam, mas dona Lúcia, em seu coração de mãe, sabia: o Espírito ainda rezava dentro dele." },
+            { "papel": "pergunta", "texto": "Como podemos conviver com os conflitos que se impõem dentro do nosso lar?" }
+          ]
+        },
+        {
+          "tipo": "rezar",
+          "titulo": "6. Rezar com a Palavra",
+          "introducao": { "papel": "D", "texto": "O Senhor quer fazer do nosso lar uma morada da paz. Ele vem em nosso auxílio para superar toda divisão e reconciliar as diferenças que desafiam o convívio. Por isso, rezemos:" },
+          "resposta": "Senhor, fazei do meu lugar o vosso próprio lar!",
+          "intencoes": [
+            "Para que nossas famílias encontrem caminhos de diálogo, mesmo nas diferenças.",
+            "Para que nossas crianças e nossos adolescentes encontrem, em seus lares, um espaço saudável, afetivo e seguro.",
+            "Para que os casais saibam testemunhar o amor, a tolerância e o perdão.",
+            "Para que nossa vizinhança viva em harmonia e saiba cultivar o respeito e o senso de comunidade.",
+            "Para que todos tenham um lar digno e seguro onde habitar."
+          ],
+          "nota": "Outras intenções podem ser acrescentadas."
+        },
+        {
+          "tipo": "falas",
+          "titulo": "7. Compromisso de Irmãos",
+          "falas": [
+            { "papel": "D", "texto": "Nesta semana, vamos nos comprometer **a criar momentos de comunhão familiar** que favoreçam o diálogo, a espiritualidade, a partilha do cotidiano. Seja nas refeições à mesa, nas orações em família ou na conversa durante o café, garantiremos que a pressa e os afazeres do dia a dia não se sobreponham ao nosso desejo de estar juntos e dividir a vida com amor." }
+          ]
+        },
+        { "tipo": "oracaoFinal", "titulo": "8. Oração Final" }
+      ]
+    },
+    {
+      "numero": 5,
+      "titulo": "A PAZ EM NOSSAS COMUNIDADES",
+      "secoes": [
+        { "tipo": "oracaoInicial", "titulo": "1. Oração Inicial" },
+        {
+          "tipo": "falas",
+          "titulo": "2. Acolhida do Tema",
+          "falas": [
+            { "papel": "D", "texto": "Irmãos e irmãs, o Advento é tempo para reunir o que está disperso e fortalecer os laços que nos unem. Caminhamos na espera do Senhor, mas não vamos sozinhos: Ele nos chama a formar um povo, uma comunidade na qual a paz possa florescer." },
+            { "papel": "T", "texto": "**Senhor, ensinai-nos a viver na unidade!**" },
+            { "papel": "L1", "texto": "Vivemos tempos em que a divisão ideológica, as guerras e a intolerância ferem nosso senso de comunidade. Por isso, precisamos sempre recordar que a unidade não é simplesmente algo feito por nossas próprias mãos, mas um dom que o Espírito vai tecendo entre nós." },
+            { "papel": "L2", "texto": "O Natal nos recorda de que Deus vem para fazer de muitos um só corpo. Onde há abertura ao outro, escuta sincera e desejo de comunhão, ali sua presença se torna visível e sua paz encontra espaço para permanecer." },
+            { "papel": "T", "texto": "**Senhor, fazei de nós um só coração e uma só alma!**" }
+          ]
+        },
+        {
+          "tipo": "iluminacao",
+          "titulo": "3. Iluminação Bíblica",
+          "introducao": { "papel": "D", "texto": "A escuta e acolhida da Palavra nos faz Igreja, Povo de Deus. É ela, a Palavra, o primeiro fundamento de nossa unidade. Ouçamos." },
+          "canto": "Canto de acolhida da Palavra, à escolha.",
+          "proclamacao": "Proclamação da Palavra – Efésios 4,1-3",
+          "nota": "Após a proclamação, faz-se um tempo de silêncio, para que cada um leia e releia o texto em sua própria Bíblia, pelo menos três vezes, sem pressa."
+        },
+        {
+          "tipo": "perguntas",
+          "titulo": "4. Partilha",
+          "perguntas": [
+            "O que a Palavra de Deus nos ensina sobre como viver bem em comunidade?",
+            "Quais atitudes mais dificultam a unidade e a paz em nossa comunidade?",
+            "Que gestos concretos podemos assumir para fortalecer a comunhão entre nós?"
+          ]
+        },
+        {
+          "tipo": "falas",
+          "titulo": "5. Fato da Vida",
+          "falas": [
+            { "papel": "L3", "texto": "Na comunidade paroquial, o tempo das eleições trouxe divisões que ninguém imaginava. Conversas simples tornaram-se discussões, grupos se afastaram e até na porta da igreja já não se viam os mesmos cumprimentos de antes. O clima, antes fraterno, agora estava tenso." },
+            { "papel": "L1", "texto": "O pároco, que sempre se alegrou com a unidade da comunidade, começou a sentir o peso daquela situação. Via pessoas queridas se tratando com desconfiança, lideranças se distanciando e encontros pastorais marcados mais por tensão do que por comunhão. Aquilo lhe tirava a paz." },
+            { "papel": "L2", "texto": "Foi então que, numa madrugada, uma tragédia abalou o bairro. Um incêndio atingiu a casa de uma família conhecida, que perdeu quase tudo. A notícia se espalhou rapidamente e, ao amanhecer, a comunidade começou a se mobilizar." },
+            { "papel": "L3", "texto": "Pessoas que mal se falavam estavam agora lado a lado, organizando doações, preparando alimentos, oferecendo ajuda. As diferenças ficaram em segundo plano diante da dor concreta daqueles irmãos." },
+            { "papel": "D", "texto": "Ao ver aquela cena, o pároco se emocionou. Percebeu que, apesar das divisões, algo essencial ainda permanecia vivo. E compreendeu que a comunidade reencontrava sua paz quando se lembrava do que realmente a unia." },
+            { "papel": "pergunta", "texto": "O que realmente nos une como comunidade?" },
+            { "papel": "pergunta", "texto": "Como conciliar nossas diferentes visões de mundo e a fé comum que nos une?" }
+          ]
+        },
+        {
+          "tipo": "rezar",
+          "titulo": "6. Rezar com a Palavra",
+          "introducao": { "papel": "D", "texto": "\u201cA salvação foi sempre considerada como uma realidade comunitária\u201d, diz-nos o Papa Bento XVI (Spe salvi, n. 14). Por isso, supliquemos ao Senhor que faça brilhar em nossa comunidade os sinais visíveis do seu amor salvífico:" },
+          "resposta": "Senhor, fazei de nossa comunidade um farol da paz!",
+          "intencoes": [
+            "Para que saibamos ser Igreja, Corpo de Cristo, Povo de Deus.",
+            "Para que nossas diferenças não se tornem divisões, mas oportunidade para a acolhida da diversidade.",
+            "Para que nossas lideranças sejam servidoras da unidade.",
+            "Para que nossas comunidades deem testemunho da verdadeira comunhão que vem de Deus."
+          ],
+          "nota": "Outras intenções podem ser acrescentadas."
+        },
+        {
+          "tipo": "falas",
+          "titulo": "7. Compromisso de Irmãos",
+          "falas": [
+            { "papel": "D", "texto": "Neste Advento, façamos de nossas comunidades eclesiais lugares de reconciliação e entendimento. Ao longo desta semana (ou ao longo dos próximos dias), **procuremos rezar pelas lideranças comunitárias e pelos ministros ordenados**, aos quais foi confiado o pastoreio da Igreja. Que possamos sustentá-los com nossa oração e também com nossas atitudes, **diminuindo a severidade de nossas críticas e ampliando nosso compromisso e participação comunitária**." }
+          ]
+        },
+        { "tipo": "oracaoFinal", "titulo": "8. Oração Final" }
+      ]
+    },
+    {
+      "numero": 6,
+      "titulo": "A PAZ EM NOSSO PAÍS",
+      "secoes": [
+        { "tipo": "oracaoInicial", "titulo": "1. Oração Inicial" },
+        {
+          "tipo": "falas",
+          "titulo": "2. Acolhida do Tema",
+          "falas": [
+            { "papel": "D", "texto": "Queridos compatriotas do Céu, um ditado popular, relembrado pelo Papa Francisco em sua visita ao Brasil, diz que \u201cDeus é brasileiro\u201d. Esse é o jeito bem-humorado e afetivo que nosso povo encontrou para afirmar as maravilhas da nossa terra e reconhecer as bênçãos com as quais o Senhor agraciou nosso país." },
+            { "papel": "T", "texto": "**Senhor, nosso país também é vosso!**" },
+            { "papel": "L2", "texto": "Mas, se é verdade que vivemos em um \u201cpaís tropical, abençoado por Deus e bonito por natureza\u201d (Jorge Ben Jor), também sabemos das feridas que atravessam a história antiga e recente de nossa pátria. A Palavra de Deus nos recorda de que a paz não nasce por acaso, mas é fruto da justiça. Por isso, na espera do Natal do Senhor, renovamos nossa esperança no advento da dignidade para todos os brasileiros, na superação da violência e da pobreza e no desenvolvimento sustentável da nossa nação." },
+            { "papel": "T", "texto": "**Senhor, visitai o nosso país com a vossa paz!**" }
+          ]
+        },
+        {
+          "tipo": "iluminacao",
+          "titulo": "3. Iluminação Bíblica",
+          "introducao": { "papel": "D", "texto": "Deus deseja que vivamos em tranquilidade e segurança. Ele olha com ternura para o lugar de nossa morada, para nossas origens. Ouçamos sua Palavra." },
+          "canto": "Canto de acolhida da Palavra, à escolha.",
+          "proclamacao": "Proclamação da Palavra – Isaías 32,16-18",
+          "nota": "Após a proclamação, faz-se um tempo de silêncio, para que cada um leia e releia o texto em sua própria Bíblia, pelo menos três vezes, sem pressa."
+        },
+        {
+          "tipo": "perguntas",
+          "titulo": "4. Partilha",
+          "perguntas": [
+            "O que a Palavra de Deus nos ensina sobre a relação entre justiça e paz em nosso país?",
+            "Que atitudes concretas podemos assumir para promover mais justiça e paz onde vivemos?"
+          ]
+        },
+        {
+          "tipo": "falas",
+          "titulo": "5. Fato da Vida",
+          "falas": [
+            { "papel": "L3", "texto": "Ana tinha oito anos e era muito curiosa. Numa tarde, ao voltar da escola, perguntou: \u201cPai, por que algumas pessoas têm tudo e outras não têm quase nada?\u201d." },
+            { "papel": "L1", "texto": "O pai tentou explicar como pôde, mas a pergunta ficou no ar. Naquela semana, a professora pediu que os alunos desenhassem o que faz um país ser considerado desenvolvido. Enquanto alguns traçavam prédios altos, fábricas e elementos tecnológicos, Ana fez algo diferente." },
+            { "papel": "L2", "texto": "No seu desenho, havia uma pequena vila, simples, mas colorida, florida e bem cuidada. Em frente às belas casinhas havia pessoas sorrindo, crianças brincando na rua e ninguém parecia ter medo." },
+            { "papel": "L1", "texto": "Quando a professora perguntou o que era aquele desenho, Ana respondeu com simplicidade: \u201cÉ um país em paz\u201d." },
+            { "papel": "D", "texto": "A professora sorriu e perguntou: \u201cE você sabe por que ele está em paz, Ana?\u201d. Com segurança na voz e no olhar, a menina respondeu: \u201cSim, professora! Porque é justo\u201d." },
+            { "papel": "pergunta", "texto": "O que nos chama atenção nessa história?" },
+            { "papel": "pergunta", "texto": "Como comunidade eclesial, de que forma podemos contribuir na promoção de uma pátria mais justa e digna para todos?" }
+          ]
+        },
+        {
+          "tipo": "rezar",
+          "titulo": "6. Rezar com a Palavra",
+          "introducao": { "papel": "D", "texto": "Rezemos pelo nosso país, pelos nossos compatriotas e por todos aqueles que escolheram o Brasil como sua morada:" },
+          "resposta": "Jesus, pela intercessão da Virgem Mãe Aparecida, olhai pelo Brasil, nossa pátria querida!",
+          "intencoes": [
+            "Para que cresça entre nós o compromisso com a justiça e o cuidado com a vida.",
+            "Para que saibamos olhar com mais atenção para os que sofrem e vivem em situação de vulnerabilidade.",
+            "Para que nossas escolhas contribuam para uma sociedade mais justa, fraterna e solidária.",
+            "Para que nunca percamos a esperança de um país onde todos possam viver com dignidade e paz.",
+            "Para que os imigrantes que buscam melhores condições de vida em nosso país encontrem aqui acolhida, respeito e prosperidade."
+          ],
+          "nota": "Outras intenções podem ser acrescentadas."
+        },
+        {
+          "tipo": "falas",
+          "titulo": "7. Compromisso de Irmãos",
+          "falas": [
+            { "papel": "D", "texto": "O Natal é tempo de enxergar a infância como luz para o presente e esperança para o futuro. Em cada pequeno brasileirinho e brasileirinha que nasce, vemos também o rosto do Menino Jesus. Por isso, nesta semana (ou nos próximos dias), vamos nos comprometer a **pesquisar e apoiar projetos e ações sociais que protegem e promovem a infância das crianças de nosso país**. Muitas ações são sustentadas inclusive pelas pastorais sociais da Igreja, congregações e comunidades religiosas. **Destinar um valor financeiro como gesto concreto ou até mesmo disponibilizar-se ao serviço voluntário** em prol da infância é um compromisso cristão que pode transformar nossa nação." }
+          ]
+        },
+        { "tipo": "oracaoFinal", "titulo": "8. Oração Final" }
+      ]
+    },
+    {
+      "numero": 7,
+      "titulo": "A PAZ ENTRE OS POVOS",
+      "secoes": [
+        { "tipo": "oracaoInicial", "titulo": "1. Oração Inicial" },
+        {
+          "tipo": "falas",
+          "titulo": "2. Acolhida do Tema",
+          "falas": [
+            { "papel": "D", "texto": "Irmãos e irmãs, o Papa Leão XIV nos recorda de que, \u201cpara não afundarmos na escuridão, é necessário ver a luz e acreditar nela\u201d. Essa foi a experiência dos pastores de Belém, que, naquela noite santa, ouviram o mais feliz anúncio de toda a humanidade: \u201choje, na cidade de Davi, nasceu para vós o Salvador, que é o Cristo Senhor!\u201d." },
+            { "papel": "L1", "texto": "Também hoje, a humanidade precisa relembrar essa palavra em meio à noite escura das guerras que assolam as nações. Nestes tempos, em que acreditar em saídas pacíficas parece ser uma utopia distante e o pessimismo nos torna resignados inclusive diante da possibilidade da aniquilação total da vida humana na Terra, nossa fé nos recorda de que \u201ctambém nos lugares onde só restam escombros e onde o desespero parece inevitável, ainda hoje encontramos quem não esqueceu a paz\u201d (Papa Leão XIV)." },
+            { "papel": "T", "texto": "**Senhor, reacendei em nós a chama da esperança num mundo de paz!**" },
+            { "papel": "L2", "texto": "Aos olhos do mundo, reunirmo-nos em oração neste tempo de preparação para o Natal, compartilhando fraternalmente nossas angústias e esperanças, pode parecer inútil. Mas lembremos que \u201cé de dentro, do coração humano, que saem as más intenções\u201d (Mc 7,21). Começar por nós, pela conversão de nossa vida, é a semente que pode fazer germinar a paz no mundo todo. Pois o primeiro cessar-fogo deve acontecer nas guerras que habitam nosso próprio interior." },
+            { "papel": "T", "texto": "**Senhor, pacificai as guerras que existem dentro de mim!**" }
+          ]
+        },
+        {
+          "tipo": "iluminacao",
+          "titulo": "3. Iluminação Bíblica",
+          "introducao": { "papel": "D", "texto": "A Palavra nos revela um Deus que vem para todos, sem distinção. Ele nos chama a reconhecer que somos parte de uma única humanidade. Ouçamos." },
+          "canto": "Canto de acolhida da Palavra, à escolha.",
+          "proclamacao": "Proclamação da Palavra – Efésios 2,14-19",
+          "nota": "Após a proclamação, faz-se um tempo de silêncio, para que cada um leia e releia o texto em sua própria Bíblia, pelo menos três vezes, sem pressa."
+        },
+        {
+          "tipo": "perguntas",
+          "titulo": "4. Partilha",
+          "perguntas": [
+            "O que significa dizer que Cristo é a nossa paz e que Ele derruba os muros que nos separam?",
+            "Quais são, hoje, os \u201cmuros\u201d que ainda dividem os povos e as pessoas?",
+            "Que atitudes podemos assumir para promover mais acolhida, respeito e comunhão com os outros?"
+          ]
+        },
+        {
+          "tipo": "falas",
+          "titulo": "5. Fato da Vida",
+          "falas": [
+            { "papel": "L3", "texto": "Seu Antônio vivia em pé de guerra com o vizinho há anos. O motivo já nem era claro: uma cerca mal colocada, um barulho fora de hora, palavras atravessadas. Com o tempo, já não se cumprimentavam e evitavam-se." },
+            { "papel": "L1", "texto": "Dentro de casa, o nome do vizinho sequer podia ser mencionado. Nem mesmo as crianças da casa podiam interagir com os meninos ao lado. Seu Antônio dizia, inflexível: \u201cCom essa gente, nossa família não se mistura…\u201d." },
+            { "papel": "L2", "texto": "Numa noite, sentado no sofá, assistiu, horrorizado, ao noticiário que mostrava um líder mundial declarar guerra a outro país. Imagens de destruição começaram a aparecer, e ele comentou, indignado: \u201cEu não consigo entender como um homem desses pode guardar tanto ódio no coração…\u201d." },
+            { "papel": "D", "texto": "Sua esposa, que estava ao lado, respondeu: \u201cTalvez ele não seja tão diferente de você, só tem mais poder\u201d." },
+            { "papel": "L3", "texto": "Aquelas palavras caíram-lhe como uma bomba. Pela primeira vez, seu Antônio se viu refletido naquilo que condenava. Percebeu que a guerra que criticava lá fora também existia dentro dele." },
+            { "papel": "D", "texto": "No dia seguinte, ao sair para comprar pão, fez o que há anos se recusa a fazer: deu bom dia ao vizinho. Parecia quase nada, mas, naquele dia, ambos sentiram que nos seus corações se inaugurava um caminho de paz." },
+            { "papel": "pergunta", "texto": "O que essa história nos ajuda a perceber sobre as pequenas \u201cguerras\u201d que podemos alimentar no nosso dia a dia?" },
+            { "papel": "pergunta", "texto": "Que passo simples poderíamos dar para iniciar um caminho de paz em alguma relação difícil?" }
+          ]
+        },
+        {
+          "tipo": "rezar",
+          "titulo": "6. Rezar com a Palavra",
+          "introducao": { "papel": "D", "texto": "\u201cA bondade é desarmante. Talvez por isso Deus se tenha feito criança\u201d (Papa Leão XIV). Rezemos ao Senhor que desarma nossos corações:" },
+          "resposta": "Menino Deus, dai-nos vossa paz desarmada e desarmante!",
+          "intencoes": [
+            "Para que saibamos reconhecer e superar as divisões que alimentamos em nosso coração.",
+            "Para que tenhamos coragem de dar o primeiro passo na reconciliação.",
+            "Para que não deixemos que o orgulho e a dureza nos afastem dos outros.",
+            "Para que aprendamos a construir a paz por gestos simples no dia a dia.",
+            "Para que saibamos escolher lideranças políticas e religiosas promotoras da paz."
+          ],
+          "nota": "Outras intenções podem ser acrescentadas."
+        },
+        {
+          "tipo": "falas",
+          "titulo": "7. Compromisso de Irmãos",
+          "falas": [
+            { "papel": "D", "texto": "A Palavra que escutamos hoje nos recorda de que Cristo veio para derrubar os muros que nos separam e fazer de todos um só povo. Por isso, nesta semana (ou nos próximos dias), somos convidados a dar um passo concreto em direção à reconciliação. Talvez seja a hora de **iniciar um diálogo, de oferecer um gesto de aproximação ou simplesmente de mudar a forma como olhamos para alguém com quem temos dificuldade**." }
+          ]
+        },
+        { "tipo": "oracaoFinal", "titulo": "8. Oração Final" }
+      ]
+    },
+    {
+      "numero": 8,
+      "titulo": "A PAZ COM TODA A CRIAÇÃO",
+      "secoes": [
+        { "tipo": "oracaoInicial", "titulo": "1. Oração Inicial" },
+        {
+          "tipo": "falas",
+          "titulo": "2. Acolhida do Tema",
+          "falas": [
+            { "papel": "D", "texto": "Amados irmãos e irmãs, toda a obra da Criação é chamada a participar dessa paz que o Verbo, em sua Encarnação, deseja restaurar." },
+            { "papel": "L1", "texto": "O profeta Isaías nos apresenta uma imagem cheia de esperança: um mundo reconciliado, onde não há mais violência, onde a morte não impera, mas a humanidade, em comunhão com todas as criaturas, dá testemunho da glória de Deus." },
+            { "papel": "T", "texto": "**Senhor, renovai a face da Criação!**" },
+            { "papel": "L2", "texto": "Olhando para a realidade, percebemos o quanto ainda estamos distantes desse sonho. A natureza é ferida, os recursos são explorados sem cuidado, e muitas vezes nos esquecemos de que também somos parte dessa Criação, chamados a dela cuidar, não a submetê-la segundo nossos interesses." },
+            { "papel": "L3", "texto": "O Presépio de Belém expressa a desejada comunhão. Nele percebemos que também os animais foram testemunhas do Mistério do Natal. Da alegria pela Encarnação do Verbo, nenhum ser é excluído, mas, com ela, redescobrimos a beleza da Criação." },
+            { "papel": "T", "texto": "**Senhor, ensinai-nos a cuidar da vossa Criação com amor!**" }
+          ]
+        },
+        {
+          "tipo": "iluminacao",
+          "titulo": "3. Iluminação Bíblica",
+          "introducao": { "papel": "D", "texto": "Isaías nos apresenta o projeto original de Deus para sua Criação. Ouçamos com atenção, a fim de podermos manifestar tal projeto em nossas atitudes." },
+          "canto": "Canto de acolhida da Palavra, à escolha.",
+          "proclamacao": "Proclamação da Palavra – Isaías 11,6-9",
+          "nota": "Após a proclamação, faz-se um tempo de silêncio, para que cada um leia e releia o texto em sua própria Bíblia, pelo menos três vezes, sem pressa."
+        },
+        {
+          "tipo": "perguntas",
+          "titulo": "4. Partilha",
+          "perguntas": [
+            "O que a imagem apresentada pelo profeta Isaías nos ensina sobre a paz com toda a Criação?",
+            "De que maneiras nossas atitudes podem ferir ou cuidar da Criação que Deus nos confiou?",
+            "Que gestos concretos podemos assumir para viver uma relação mais respeitosa com a natureza e com a vida?"
+          ]
+        },
+        {
+          "tipo": "falas",
+          "titulo": "5. Fato da Vida",
+          "falas": [
+            { "papel": "L3", "texto": "Helena era uma arquiteta reconhecida pela produtividade. Seus projetos eram marcados por grandes estruturas e muito concreto, quase sempre ignorando a presença da natureza. Árvores eram removidas, áreas verdes reduzidas, e o que importava era cumprir prazos e maximizar os espaços construídos." },
+            { "papel": "L1", "texto": "Com o tempo, o ritmo começou a pesar. O cansaço se acumulou até que, um dia, ela precisou parar. O médico recomendou alguns dias de descanso, e Helena decidiu passar uma semana na casa da avó, no interior." },
+            { "papel": "L2", "texto": "Lá, o tempo parecia outro. A avó cuidava do pomar com calma, regava as plantas, colhia ervas para o chá. Suas mãos, sempre sujas de terra, pareciam conhecer o ritmo da vida. Os pássaros cruzavam o quintal, e o silêncio não era vazio, mas cheio de presença." },
+            { "papel": "L3", "texto": "Aos poucos, Helena foi se aquietando. Sem perceber, começou a observar mais do que fazer, a escutar mais do que planejar." },
+            { "papel": "D", "texto": "Quando voltou para casa, os projetos estavam à sua espera, mas ela não era a mesma. Seu olhar agora percebia uma beleza que antes não era capaz de ver: as mãos de sua avó, sujas de terra, construíam algo muito maior do que ela algum dia foi capaz: um templo de paz." },
+            { "papel": "pergunta", "texto": "O que a experiência de Helena nos ensina sobre a relação entre o modo como vivemos e a paz que buscamos?" },
+            { "papel": "pergunta", "texto": "Em nosso dia a dia, de que forma podemos nos reconectar com a Criação e cuidar melhor da vida ao nosso redor?" }
+          ]
+        },
+        {
+          "tipo": "rezar",
+          "titulo": "6. Rezar com a Palavra",
+          "introducao": { "papel": "D", "texto": "A Palavra de Deus nos revela o sonho de uma Criação reconciliada, em que tudo vive em harmonia. Neste tempo de preparação para o Natal, peçamos esta graça:" },
+          "resposta": "Senhor, renovai em nós a paz com toda a Criação!",
+          "intencoes": [
+            "Para que aprendamos a respeitar e a cuidar da natureza como dom de Deus.",
+            "Para que nossas escolhas não destruam, mas promovam a vida em todas as suas formas.",
+            "Para que saibamos contemplar a beleza da Criação e reconhecer nela a presença de Deus.",
+            "Para que vivamos com mais simplicidade, responsabilidade e gratidão pelo mundo que recebemos."
+          ],
+          "nota": "Outras intenções podem ser acrescentadas."
+        },
+        {
+          "tipo": "falas",
+          "titulo": "7. Compromisso de Irmãos",
+          "falas": [
+            { "papel": "D", "texto": "A Palavra que escutamos hoje nos convida a redescobrir nossa relação com a Criação, reconhecendo nela um dom de Deus que pede cuidado e responsabilidade. Nesta semana (ou nos próximos dias), somos convidados a dar um passo concreto: **retomar, de algum modo, o contato com a terra**. Pode ser plantar uma árvore, cuidar de uma planta, preparar um pequeno espaço verde ou simplesmente dedicar tempo para contemplar a natureza com mais atenção e respeito. Que este gesto nos ajude a reencontrar o ritmo da vida, a cultivar a gratidão e a perceber que, na comunhão com a Criação, também nosso coração encontra caminhos de paz." }
+          ]
+        },
+        { "tipo": "oracaoFinal", "titulo": "8. Oração Final" }
+      ]
+    },
+    {
+      "numero": 9,
+      "titulo": "ELE ESTÁ NO MEIO DE NÓS",
+      "secoes": [
+        { "tipo": "oracaoInicial", "titulo": "1. Oração Inicial" },
+        {
+          "tipo": "falas",
+          "titulo": "2. Acolhida do Tema",
+          "falas": [
+            { "papel": "D", "texto": "Irmãos e irmãs, chegamos ao último dia de nossa Novena! Ao longo deste caminho, fomos descobrindo que a paz de Deus começa no coração, se estende às nossas relações e se abre ao mundo inteiro. Hoje, celebramos o anúncio que ecoa na noite do Natal: uma paz que não pertence apenas a alguns, mas que é destinada a toda a humanidade, a todo o universo." },
+            { "papel": "T", "texto": "**Senhor, por vossa presença, inundai-nos de paz!**" },
+            { "papel": "L2", "texto": "Essa paz não é fruto apenas de nossos esforços, mas é, antes de tudo, um dom. Deus se faz presente em nossa história, assume nossa condição e inaugura um novo horizonte para toda a Criação. Onde Ele está, a paz floresce." },
+            { "papel": "L3", "texto": "O Natal nos convida a acolher este mistério: Deus está entre nós. E, ao reconhecermos sua presença, somos chamados a nos tornar sinais dessa paz no mundo, para que ela alcance todos os povos e todas as realidades." },
+            { "papel": "T", "texto": "**Senhor, por vossa presença, inundai-nos de paz!**" }
+          ]
+        },
+        {
+          "tipo": "iluminacao",
+          "titulo": "3. Iluminação Bíblica",
+          "introducao": { "papel": "D", "texto": "Irmãos e irmãs, acolhamos com alegria o anúncio que ilumina toda noite pela qual tivermos que passar: Deus está entre nós. Ouçamos com atenção o Evangelho." },
+          "canto": "Canto de acolhida da Palavra, à escolha.",
+          "proclamacao": "Proclamação da Palavra – Lucas 2,8-14",
+          "nota": "Após a proclamação, faz-se um tempo de silêncio, para que cada um leia e releia o texto em sua própria Bíblia, pelo menos três vezes, sem pressa."
+        },
+        {
+          "tipo": "perguntas",
+          "titulo": "4. Partilha",
+          "perguntas": [
+            "O que nos chama mais atenção no anúncio dos anjos aos pastores?",
+            "O que significa para nós, hoje, acolher a paz que Deus oferece ao mundo?",
+            "Como podemos ser, concretamente, anunciadores dessa paz no cotidiano?"
+          ]
+        },
+        {
+          "tipo": "falas",
+          "titulo": "5. Fato da Vida",
+          "falas": [
+            { "papel": "D", "texto": "É na realidade concreta de nossas vidas que Deus quer se fazer um sinal de paz. Mas, como a luz que perpassa cada pequena fresta, como a água que não se deixa conter e escorre pelas brechas, a paz não é algo que possamos reter. Ela transborda, avança, derrama-se sobre os que estão ao nosso redor; vai penetrando cada espaço aberto, disponível, onde encontre possibilidades (ainda que mínimas) de habitar." },
+            { "papel": "L1", "texto": "São esses espaços, esses pequenos fatos da vida, que, ao longo destes nove dias, cada um de nós, como comunidade, apresentamos ao Senhor, percebendo que nós estávamos sendo preenchidos por sua presença pacificadora, desarmada e desarmante. \u201cA paz existe, deseja habitar-nos\u201d, diz o Papa Leão XIV." },
+            { "papel": "L2", "texto": "Por isso, hoje, cada um é convidado a reconhecer onde a paz de Deus foi sendo semeada ao longo desta Novena e a partilhar, brevemente, quais caminhos de vida foram tocados por esses encontros." }
+          ]
+        },
+        {
+          "tipo": "rezar",
+          "titulo": "6. Rezar com a Palavra",
+          "introducao": { "papel": "D", "texto": "Irmãos e irmãs, o anúncio do Natal ressoa entre nós: Deus está conosco e traz ao mundo a sua paz. Acolhendo esse dom, elevemos ao Pai as nossas preces:" },
+          "resposta": "Senhor, que vossa paz habite em nós!",
+          "intencoes": [
+            "Para que a paz anunciada pelos anjos encontre lugar em nossos corações e em nossas vidas.",
+            "Para que nossas famílias, nossas comunidades e nosso país sejam alcançados pela vossa presença que reconcilia.",
+            "Para que saibamos reconhecer, no cotidiano, os sinais da vossa paz, que já floresce entre nós.",
+            "Para que nos tornemos testemunhas dessa paz, levando-a a todos que encontrarmos."
+          ],
+          "nota": "Outras intenções podem ser acrescentadas."
+        },
+        {
+          "tipo": "falas",
+          "titulo": "7. Compromisso de Irmãos",
+          "falas": [
+            { "papel": "D", "texto": "Como semeadores da paz, em nosso último compromisso nesta Novena, somos convidados a assumir um propósito: **tornarmo-nos presença de paz onde estivermos**. Mais do que qualquer meta para o novo ano, que seja a paz nossa maior aspiração. Que nossas palavras reconciliem, que nossa escuta acolha, que nossas atitudes desarmem conflitos. Que este compromisso nos ajude a reconhecer que a paz que recebemos de Deus não é apenas para nós, mas um dom que somos chamados a partilhar, para que, por meio de nós, Ele continue a reinar em todo o universo." }
+          ]
+        },
+        { "tipo": "oracaoFinal", "titulo": "8. Oração Final" }
+      ]
+    }
+  ],
+  "cantos": [
+    {
+      "numero": 1,
+      "titulo": "Senhor, vem salvar teu povo",
+      "autoria": "L. e M.: Pe. José Weber",
+      "estrofes": [
+        { "tipo": "num", "marca": "1.", "texto": "Senhor, vem salvar teu povo, das trevas, da escravidão. Só tu és nossa esperança, és nossa libertação." },
+        { "tipo": "refrao", "marca": "R.", "texto": "**Vem, Senhor, vem nos salvar, com teu povo vem caminhar. Vem, Senhor, vem nos salvar, com teu povo vem caminhar.**" },
+        { "tipo": "num", "marca": "2.", "texto": "Contigo o deserto é fértil, a terra se abre em flor. Da rocha brota água viva, da treva nasce esplendor." },
+        { "tipo": "num", "marca": "3.", "texto": "Tu marchas à nossa frente, és força, caminho e luz. Vem logo salvar teu povo, não tardes, Senhor Jesus." }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Ouve-se na terra um grito",
+      "autoria": "L. e M.: Pe. José Raimundo Galvão",
+      "estrofes": [
+        { "tipo": "refrao", "marca": "R.", "texto": "**Ouve-se na terra um grito, do povo um grande clamor: \u201cSenhor, abre os céus, que as nuvens chovam o Salvador!\u201d**" },
+        { "tipo": "num", "marca": "1.", "texto": "É o nosso canto de amor e esperança, que toda a terra proclama também, e a nossa voz não se cansa: \u201cVem, Senhor Jesus, vem!\u201d" },
+        { "tipo": "num", "marca": "2.", "texto": "Quando as trevas invadem a terra, e quando muitos um guia não têm, o nosso amor sempre espera: \u201cVem, Senhor Jesus, vem!\u201d" },
+        { "tipo": "num", "marca": "3.", "texto": "Embora muitos rejeitem o apelo, que toda luz e verdade contém, a Igreja insiste em seu zelo: \u201cVem, Senhor Jesus, vem!\u201d" }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Vem, Senhor, nos salvar – Sl 24",
+      "autoria": "L. e M.: Folheto Povo de Deus",
+      "estrofes": [
+        { "tipo": "refrao", "marca": "R.", "texto": "**Vem, Senhor, nos salvar! Vem, sem demora, nos dar a paz!**" },
+        { "tipo": "num", "marca": "1.", "texto": "Senhor, meu Deus, a vós elevo a minha alma. Em vós confio: que eu não seja envergonhado!" },
+        { "tipo": "num", "marca": "2.", "texto": "Recordai, Senhor meu Deus, vossa ternura, e a vossa compaixão que são eternas!" }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Alegrai-vos sempre no Senhor – Fl 4,4-5",
+      "autoria": "L.: Missal Romano / M.: Fr. Telles Ramon, O. de M.",
+      "estrofes": [
+        { "tipo": "refrao", "marca": "R.", "texto": "**Alegrai-vos sempre no Senhor! Eu repito: alegrai-vos! O Senhor está bem perto. Alegrai-vos no Senhor! (bis)**" },
+        { "tipo": "num", "marca": "1.", "texto": "Quero ouvir o que o Senhor irá falar: é a paz que Ele vai anunciar!" },
+        { "tipo": "num", "marca": "2.", "texto": "A paz para seu povo e seus amigos, para os que voltam ao Senhor seu coração." },
+        { "tipo": "num", "marca": "3.", "texto": "Está perto a salvação dos que o temem, e a glória habitará em nossa terra." }
+      ]
+    },
+    {
+      "numero": 5,
+      "titulo": "Das alturas orvalhem os céus",
+      "autoria": "V. e M.: Reginaldo Veloso",
+      "estrofes": [
+        { "tipo": "refrao", "marca": "R.", "texto": "**Das alturas orvalhem os céus, e as nuvens, que chovam justiça, que a terra se abra ao amor e germine o Deus Salvador.**" },
+        { "tipo": "num", "marca": "1.", "texto": "Foste amigo, antigamente, desta terra que amaste, deste povo que escolheste; sua sorte melhoraste, perdoaste seus pecados, tua raiva acalmaste." },
+        { "tipo": "num", "marca": "2.", "texto": "Vem, de novo, restaurar-nos! Sempre irado estarás, indignado contra nós? E a vida não darás? Salvação e alegria outra vez, não nos trarás?" },
+        { "tipo": "num", "marca": "3.", "texto": "Escutemos suas palavras, é de paz que vai falar; paz ao povo, a seus fiéis, a quem dele se achegar. Está perto a salvação e a glória vai voltar." }
+      ]
+    },
+    {
+      "numero": 6,
+      "titulo": "Nasceu em Belém, a casa do pão",
+      "autoria": "L. e M.: J. R. Galvão",
+      "estrofes": [
+        { "tipo": "num", "marca": "1.", "texto": "As nossas mãos se abrem, mesmo na luta e na dor e trazem pão e vinho, para esperar o Senhor." },
+        { "tipo": "refrao", "marca": "R.", "texto": "**Deus ama os pobres e se fez pobre também, desceu à terra e fez pousada em Belém.**" },
+        { "tipo": "num", "marca": "2.", "texto": "As nossas mãos se elevam, para, num gesto de amor, retribuir a vida, que vem das mãos do Senhor." },
+        { "tipo": "num", "marca": "3.", "texto": "As nossas mãos se encontram na mais fraterna união. Façamos deste mundo a grande \u201cCasa do Pão\u201d!" },
+        { "tipo": "num", "marca": "4.", "texto": "As nossas mãos sofridas nem sempre têm o que dar, mas vale a própria vida de quem prossegue a lutar." }
+      ]
+    },
+    {
+      "numero": 7,
+      "titulo": "Da cepa brotou a rama – Is 11",
+      "autoria": "V. e M.: Reginaldo Veloso",
+      "estrofes": [
+        { "tipo": "refrao", "marca": "R.", "texto": "**Da cepa brotou a rama, da rama brotou a flor, da flor nasceu Maria, de Maria, o Salvador. (bis)**" },
+        { "tipo": "num", "marca": "1.", "texto": "O Espírito de Deus sobre Ele pousará, de saber, de entendimento este Espírito será. De conselho e fortaleza, de ciência e de temor, achará sua alegria no temor do seu Senhor." },
+        { "tipo": "num", "marca": "2.", "texto": "Não será pela ilusão do olhar, do ouvir dizer, que Ele irá julgar os homens, como é praxe acontecer. Mas, os pobres desta terra, com justiça julgará, e dos fracos o direito Ele é quem defenderá." },
+        { "tipo": "num", "marca": "3.", "texto": "Um menino, uma criança com as feras a brincar, e nenhum mal, nenhum dano mais na terra se fará. Da ciência do Senhor, cheio o mundo estará, como o sol inunda a terra e as águas enchem o mar." }
+      ]
+    },
+    {
+      "numero": 8,
+      "titulo": "Cristãos, vinde todos",
+      "autoria": "M.: Século XVII ou XVIII / Texto adapt.: Frei Emílio Scheid, ofm",
+      "estrofes": [
+        { "tipo": "num", "marca": "1.", "texto": "Cristãos, vinde todos, com alegres cantos, oh! vinde, oh! vinde até Belém. Vede nascido, vosso Rei eterno." },
+        { "tipo": "refrao", "marca": "R.", "texto": "**Oh, vinde, adoremos! Oh, vinde, adoremos! Oh, vinde, adoremos o Salvador!**" },
+        { "tipo": "num", "marca": "2.", "texto": "Humildes pastores deixam seu rebanho, e alegres acorrem ao Rei do Céu. Nós, igualmente, cheios de alegria." },
+        { "tipo": "num", "marca": "3.", "texto": "O Deus invisível de eternal grandeza, sob véus de humildade, podemos ver. Deus pequenino, Deus envolto em faixas!" }
+      ]
+    },
+    {
+      "numero": 9,
+      "titulo": "Noite Feliz",
+      "autoria": "L.: J. Mohr (1818), domínio público. M.: Franz Xavier Gruber, 1818",
+      "estrofes": [
+        { "tipo": "num", "marca": "1.", "texto": "Noite feliz! Noite feliz! / Ó Senhor, Deus de amor, / pobrezinho, nasceu em Belém, / eis na lapa Jesus, nosso bem! / Dorme em paz, ó Jesus! (2x)" },
+        { "tipo": "num", "marca": "2.", "texto": "Noite feliz! Noite feliz! / Ó Jesus, Deus da luz, / quão afável é teu coração, / que quiseste nascer nosso irmão, / e a nós todos salvar! (2x)" },
+        { "tipo": "num", "marca": "3.", "texto": "Noite feliz! Noite feliz! / Eis que no ar vêm cantar / aos pastores os anjos do céu, / anunciando a chegada de Deus, / de Jesus Salvador. (2x)" }
+      ]
+    }
+  ]
+}

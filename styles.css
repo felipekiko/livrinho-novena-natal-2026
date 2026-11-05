@@ -1,0 +1,385 @@
+:root {
+  --bg: #141210;
+  --bg-elev: #1e1b17;
+  --bg-elev-2: #272219;
+  --surface-line: #352e24;
+  --text: #ece6da;
+  --text-dim: #b4a991;
+  --text-faint: #8a8070;
+  --gold: #d9b26a;
+  --gold-bright: #f0cd86;
+  --gold-dim: #a9884c;
+  --maxw: 720px;
+  --pager-h: 68px;
+  --topbar-h: 56px;
+  font-size: 18px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Georgia", "Times New Roman", serif;
+  line-height: 1.65;
+  -webkit-text-size-adjust: 100%;
+  overflow-wrap: break-word;
+}
+
+body {
+  min-height: 100vh;
+  min-height: 100dvh;
+}
+
+/* ---------- Top bar ---------- */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  height: calc(var(--topbar-h) + env(safe-area-inset-top));
+  padding-top: env(safe-area-inset-top);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  background: rgba(20, 18, 16, 0.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--surface-line);
+}
+
+.topbar__title {
+  flex: 1;
+  text-align: center;
+  font-size: 1.05rem;
+  letter-spacing: 0.04em;
+  color: var(--gold);
+  font-weight: 700;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.topbar__back, .topbar__home {
+  flex: 0 0 auto;
+  width: 44px;
+  height: 44px;
+  border: none;
+  background: transparent;
+  color: var(--gold);
+  font-size: 1.6rem;
+  line-height: 1;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.topbar__back:active, .topbar__home:active { background: var(--bg-elev-2); }
+.topbar__back[hidden], .topbar__home[hidden] { display: none; }
+
+/* ---------- App container ---------- */
+.app {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 20px 20px calc(var(--pager-h) + 32px + env(safe-area-inset-bottom));
+  outline: none;
+}
+.app.no-pager { padding-bottom: calc(40px + env(safe-area-inset-bottom)); }
+
+/* ---------- Home / Index ---------- */
+.hero {
+  text-align: center;
+  padding: 28px 8px 20px;
+  border-bottom: 1px solid var(--surface-line);
+  margin-bottom: 24px;
+}
+.hero__star { font-size: 2.2rem; color: var(--gold); }
+.hero__title {
+  font-size: 2rem;
+  margin: 6px 0 4px;
+  color: var(--gold-bright);
+  letter-spacing: 0.03em;
+}
+.hero__subtitle {
+  font-style: italic;
+  color: var(--text-dim);
+  font-size: 1.05rem;
+  margin: 0;
+}
+
+.section-label {
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.78rem;
+  color: var(--gold-dim);
+  margin: 26px 2px 10px;
+  font-family: system-ui, sans-serif;
+}
+
+.index-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 12px;
+}
+
+.card {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: var(--bg-elev);
+  border: 1px solid var(--surface-line);
+  border-radius: 14px;
+  padding: 14px 16px;
+  color: var(--text);
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.15s, transform 0.05s;
+}
+.card:active { transform: scale(0.99); border-color: var(--gold-dim); }
+
+.card--encontro .card__num {
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  font-family: system-ui, sans-serif;
+}
+.card--encontro .card__title {
+  font-size: 0.98rem;
+  margin-top: 4px;
+  line-height: 1.35;
+  color: var(--text);
+}
+
+.list { display: flex; flex-direction: column; gap: 10px; }
+.list .card { border-radius: 12px; }
+.list .card__title { font-size: 1rem; }
+.list .card__sub { font-size: 0.82rem; color: var(--text-faint); font-style: italic; font-family: system-ui, sans-serif; }
+
+.home-foot {
+  margin-top: 30px;
+  padding-top: 18px;
+  border-top: 1px solid var(--surface-line);
+  font-size: 0.8rem;
+  color: var(--text-faint);
+  text-align: center;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+}
+
+/* ---------- Legend (siglas) ---------- */
+.legend {
+  background: var(--bg-elev);
+  border: 1px solid var(--surface-line);
+  border-radius: 12px;
+  padding: 12px 16px;
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+}
+.legend dt { color: var(--gold); font-weight: 700; display: inline; }
+.legend dd { display: inline; margin: 0 0 0 4px; color: var(--text-dim); }
+.legend .legend__row { margin: 3px 0; }
+
+/* ---------- Content screen ---------- */
+.screen__kicker {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.74rem;
+  color: var(--gold-dim);
+  font-family: system-ui, sans-serif;
+  margin-bottom: 4px;
+}
+.screen__title {
+  text-align: center;
+  color: var(--gold-bright);
+  font-size: 1.5rem;
+  line-height: 1.25;
+  margin: 2px 0 6px;
+}
+.screen__note {
+  text-align: center;
+  font-style: italic;
+  color: var(--text-dim);
+  margin: 0 0 18px;
+  font-size: 0.95rem;
+}
+.screen__divider {
+  width: 80px;
+  height: 1px;
+  background: var(--gold-dim);
+  border: none;
+  margin: 14px auto 22px;
+  opacity: 0.6;
+}
+
+/* Falas (D./L1./T. etc.) */
+.fala { margin: 0 0 16px; display: flex; gap: 10px; }
+.fala__role {
+  flex: 0 0 auto;
+  min-width: 28px;
+  color: var(--gold);
+  font-weight: 700;
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+  padding-top: 2px;
+}
+.fala__text { flex: 1; margin: 0; }
+.fala__text b, .fala__text strong { color: var(--gold-bright); font-weight: 700; }
+
+.fala--todos .fala__text { color: var(--gold-bright); }
+.fala--resposta .fala__text { color: var(--gold-bright); }
+
+/* Pergunta destacada (negrito, com marcador) */
+.pergunta {
+  display: flex;
+  gap: 10px;
+  margin: 10px 0;
+  font-weight: 700;
+  color: var(--gold-bright);
+}
+.pergunta::before { content: "•"; color: var(--gold); flex: 0 0 auto; }
+
+/* Partilha (perguntas de reflexão) */
+.perguntas { list-style: none; padding: 0; margin: 0; }
+.perguntas li {
+  position: relative;
+  padding-left: 20px;
+  margin: 0 0 14px;
+}
+.perguntas li::before {
+  content: "•";
+  position: absolute;
+  left: 2px;
+  color: var(--gold);
+}
+
+/* Iluminação bíblica */
+.proclamacao {
+  background: var(--bg-elev-2);
+  border-left: 3px solid var(--gold);
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin: 16px 0 10px;
+  font-weight: 700;
+  color: var(--gold-bright);
+  font-family: system-ui, sans-serif;
+  letter-spacing: 0.01em;
+}
+.canto-indicacao, .obs, .nota {
+  font-style: italic;
+  color: var(--text-dim);
+  font-size: 0.95rem;
+  margin: 10px 0;
+}
+
+/* Rezar com a palavra */
+.resposta-bloco {
+  background: var(--bg-elev);
+  border: 1px solid var(--surface-line);
+  border-radius: 12px;
+  padding: 12px 16px;
+  margin: 14px 0;
+}
+.resposta-bloco .fala__role { color: var(--gold); }
+.resposta-bloco .resposta-texto { color: var(--gold-bright); font-weight: 700; margin: 0; }
+.intencoes { list-style: none; padding: 0; margin: 14px 0 0; counter-reset: intencao; }
+.intencoes li {
+  position: relative;
+  padding-left: 30px;
+  margin: 0 0 12px;
+}
+.intencoes li::before {
+  counter-increment: intencao;
+  content: counter(intencao) ".";
+  position: absolute;
+  left: 2px;
+  color: var(--gold);
+  font-weight: 700;
+  font-family: system-ui, sans-serif;
+}
+
+/* Orações list (Pai Nosso etc) */
+.oracoes-list { list-style: none; padding: 0; margin: 8px 0; }
+.oracoes-list li { position: relative; padding-left: 18px; margin: 4px 0; }
+.oracoes-list li::before { content: "•"; position: absolute; left: 2px; color: var(--gold); }
+.subtitulo {
+  font-family: system-ui, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.82rem;
+  color: var(--gold);
+  margin: 20px 0 6px;
+}
+.destaque-linha {
+  font-weight: 700;
+  color: var(--gold-bright);
+  margin: 12px 0;
+}
+
+/* Cantos */
+.canto-autoria {
+  text-align: center;
+  font-style: italic;
+  color: var(--text-dim);
+  margin: 0 0 20px;
+  font-size: 0.92rem;
+}
+.estrofe { display: flex; gap: 10px; margin: 0 0 16px; }
+.estrofe__marca {
+  flex: 0 0 auto;
+  min-width: 24px;
+  color: var(--gold);
+  font-weight: 700;
+  font-family: system-ui, sans-serif;
+}
+.estrofe__texto { flex: 1; margin: 0; }
+.estrofe--refrao .estrofe__texto { color: var(--gold-bright); font-weight: 700; }
+.estrofe--refrao .estrofe__marca { color: var(--gold); }
+
+/* ---------- Pager ---------- */
+.pager {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 10;
+  height: calc(var(--pager-h) + env(safe-area-inset-bottom));
+  padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: rgba(20, 18, 16, 0.95);
+  backdrop-filter: blur(8px);
+  border-top: 1px solid var(--surface-line);
+}
+.pager[hidden] { display: none; }
+.pager__btn {
+  flex: 1;
+  height: 48px;
+  border: 1px solid var(--gold-dim);
+  background: var(--bg-elev);
+  color: var(--gold);
+  font-family: system-ui, sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border-radius: 12px;
+  cursor: pointer;
+}
+.pager__btn:active:not(:disabled) { background: var(--bg-elev-2); }
+.pager__btn:disabled { opacity: 0.3; cursor: default; border-color: var(--surface-line); color: var(--text-faint); }
+.pager__status {
+  flex: 0 0 auto;
+  min-width: 56px;
+  text-align: center;
+  font-family: system-ui, sans-serif;
+  font-size: 0.78rem;
+  color: var(--text-faint);
+  line-height: 1.2;
+}
+
+/* ---------- misc ---------- */
+.fade-in { animation: fade 0.18s ease-out; }
+@keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+@media (min-width: 600px) {
+  :root { font-size: 19px; }
+}
